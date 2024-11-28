@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Title": "A Tale of Two Cities",
+    "Author": "Charles Dickens",
+    "Year": 1859
+  },
+  {
+    "Id": 2,
+    "Title": "Harry Potter and the Philosopher's Stone",
+    "Author": "J. K. Rowling",
+    "Year": 1997
+  }
+]
